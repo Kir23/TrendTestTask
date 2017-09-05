@@ -1,5 +1,7 @@
 # TrendTestTask
 
+npm - https://www.npmjs.com/package/array-stringify
+
 Аиснхронный модуль для Node.JS, который преобразует массив чисел в строку по
 примеру:
 
