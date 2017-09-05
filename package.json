@@ -1,6 +1,6 @@
 {
   "name": "array-stringify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This module converts array to string using a special pattern",
   "main": "index.js",
   "scripts": {
