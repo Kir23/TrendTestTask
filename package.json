@@ -1,0 +1,26 @@
+{
+  "name": "array-stringify",
+  "version": "1.0.0",
+  "description": "This module converts array to string using a special pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kirill Kazantsev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kir23/TrendTestTask.git"
+  },
+  "devDependencies": {
+    "bluebird": "^3.5.0",
+    "mocha": "^3.5.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Kir23/TrendTestTask/issues"
+  },
+  "homepage": "https://github.com/Kir23/TrendTestTask#readme",
+  "directories": {
+    "test": "test"
+  }
+}
